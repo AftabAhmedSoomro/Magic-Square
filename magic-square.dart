@@ -24,9 +24,9 @@ void main() {
       c3 == 15 &&
       d1 == 15 &&
       d2 == 15) {
-    print("Given Array is a Magic Square");
+    print("Given Array is a Magic Square !");
   } else {
     print(
-        "Given Array is not a Magic Square");
+        "Given Array is not a Magic Square !");
   }
 }
